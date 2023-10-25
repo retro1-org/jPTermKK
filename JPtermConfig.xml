@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+
+<JPtermConfig>
+  <ConnectionInfo>
+    <Connection Address="cyberserv.org:5004" />
+    <Connection Address="127.0.0.1:5004" />
+  </ConnectionInfo>
+
+  <KnownPlugins>
+    <Plugin Class="jpterm.plugins.avatar.Avatar" >
+      <Param Name="Sound17" Value="City:fanfare.wav" />
+      <Param Name="Sound8" Value="Snake:snakehiss.wav" />
+      <Param Name="Sound10" Value="Beatle:insect.wav" />
+      <Param Name="Sound7" Value="Monkeyman:monkscream.wav" />
+      <Param Name="Sound2" Value="Undead:scream1.wav" />
+      <Param Name="Sound18" Value="Dead:haha.wav" />
+      <Param Name="Sound13" Value="Elemental:rubber_ducky.wav" />
+      <Param Name="Sound3" Value="Bear:dog.wav" />
+      <Param Name="Sound4" Value="Thief:e_laugh.wav" />
+      <Param Name="Sound14" Value="Warrior:bonsai.wav" />
+      <Param Name="Sound5" Value="Dragon:godzilla.wav" />
+      <Param Name="Sound15" Value="Enchanter:evil_laff.wav" />
+      <Param Name="SoundDir" Value="sounds" />
+      <Param Name="Sound1" Value="Box:cash_register.wav" />
+      <Param Name="Sound9" Value="Giant:sfa3_ko.wav" />
+      <Param Name="Sound11" Value="Slime:drill.wav" />
+      <Param Name="Sound12" Value="Merman:whale1.wav" />
+      <Param Name="Sound6" Value="Demon:scream2.wav" />
+      <Param Name="Sound16" Value="Gargoyle:wolf.wav" />
+    </Plugin>
+  </KnownPlugins>
+
+  <DisplayInfo>
+    <Foreground Color="-26368" />
+    <Background Color="-16777216" />
+    <CharSize Size="8" />
+    <Throttle WordsPerSecond="0" />
+  </DisplayInfo>
+</JPtermConfig>
